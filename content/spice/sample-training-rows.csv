@@ -1,0 +1,13 @@
+date,restaurant_id,restaurant_type,menu_item_name,meal_type,key_ingredients_tags,typical_ingredient_cost,observed_market_price,actual_selling_price,quantity_sold,has_promotion,special_event,day_of_week,holiday,is_weekend,category,cuisine_type
+10/24/2024,60,Fine Dining,Nasi Kerabu,Breakfast,"blue rice, herbs, vegetables, fish crackers",6.87,18.34,16.82,20.0,0,0,Thursday,0,0,Rice & Noodles,Malay
+7/22/2024,15,Street Food,Yong Tau Foo,Lunch,"stuffed tofu, fish paste, vegetables",5.58,10.51,8.9335,84.0,0,0,Monday,0,0,Main Course,Chinese
+11/16/2024,6,Fast Food,Banana Leaf Rice,Lunch,"rice, curry, vegetables, banana leaf",7.12,25.34,21.539,100.0,0,1,Saturday,0,1,Rice & Noodles,Indian
+1/28/2024,20,Casual Dining,Chicken 65,Dinner,"chicken, yogurt, spices, curry leaves",6.74,26.19,24.26,100.0,0,0,Sunday,0,1,Main Course,Indian
+5/11/2024,13,Casual Dining,Milo Dinosaur,Lunch,"milo, milk, ice, extra milo powder",3.19,15.18,13.52,70.0,0,0,Saturday,0,1,Drinks,Malaysian
+7/15/2024,9,Fast Food,Chicken 65,Dinner,"chicken, yogurt, spices, curry leaves",6.11,19.73,16.7705,32.0,0,0,Monday,0,0,Main Course,Indian
+3/30/2024,4,Street Food,Hainanese Chicken Chop,Dinner,"chicken, tomato sauce, peas, potato",6.84,9.56,10.516,100.0,0,0,Saturday,0,1,Main Course,Chinese
+7/18/2024,18,Street Food,Appam,Breakfast,"rice flour, coconut milk, palm wine",3.89,6.98,5.933,66.0,0,0,Thursday,0,0,Bread & Rice,Indian
+6/12/2024,5,Food Court,Nasi Beriani Gam,Dinner,"rice, mutton, yogurt, saffron, spices",8.56,18.54,15.759,100.0,0,0,Wednesday,0,0,Rice & Noodles,Malay
+12/19/2024,21,Fast Food,Nyonya Chang,Lunch,"glutinous rice, pork, mushroom, candlenut",5.11,13.83,15.213,21.0,0,0,Thursday,0,0,Rice & Noodles,Nyonya
+8/24/2024,7,Casual Dining,Nasi Beriani Gam,Dinner,"rice, mutton, yogurt, saffron, spices",8.34,46.45,39.4825,100.0,1,0,Saturday,0,1,Rice & Noodles,Malay
+1/28/2024,16,Fine Dining,Mushroom Soup Western,Lunch,"mushroom, cream, herbs, bread roll",5.99,28.22,26.14,20.0,0,0,Sunday,0,1,Soups,Western

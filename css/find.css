@@ -1,0 +1,8 @@
+.ftop{padding:6px 8px;display:flex;flex-direction:column;gap:5px;border-bottom:1px solid var(--lo)}
+.frow{display:flex;align-items:center;gap:6px}
+.frow>span{width:104px;flex:none}
+.frow .dinp{flex:1;min-width:0}
+.fin{flex:1;padding:2px 4px;background:var(--face)}
+.fbtn{display:flex;gap:6px;justify-content:flex-end}
+.fbtn .btn{font-weight:400}
+.fres .bt{width:100%}

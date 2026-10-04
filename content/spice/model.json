@@ -1,0 +1,175 @@
+{
+ "about": "Linear regression coefficients exported from price_model.pkl by tools/export-models.py",
+ "exported_with": "scikit-learn 1.9.1, biopython 1.88, pandas 3.0.5, numpy 2.5.3",
+ "target": "actual_selling_price",
+ "columns": [
+  "typical_ingredient_cost",
+  "observed_market_price",
+  "quantity_sold",
+  "has_promotion",
+  "special_event",
+  "holiday",
+  "is_weekend",
+  "restaurant_type_Fast Food",
+  "restaurant_type_Fine Dining",
+  "restaurant_type_Food Court",
+  "restaurant_type_Street Food",
+  "meal_type_Dinner",
+  "meal_type_Lunch",
+  "day_of_week_Monday",
+  "day_of_week_Saturday",
+  "day_of_week_Sunday",
+  "day_of_week_Thursday",
+  "day_of_week_Tuesday",
+  "day_of_week_Wednesday",
+  "category_Bread & Rice",
+  "category_Breakfast",
+  "category_Condiments",
+  "category_Desserts",
+  "category_Dim Sum",
+  "category_Drinks",
+  "category_Main Course",
+  "category_Noodles",
+  "category_Noodles & Rice",
+  "category_Pasta",
+  "category_Rice & Noodles",
+  "category_Snacks",
+  "category_Soups",
+  "cuisine_type_Indian",
+  "cuisine_type_Malay",
+  "cuisine_type_Malaysian",
+  "cuisine_type_Nyonya",
+  "cuisine_type_Sabahan",
+  "cuisine_type_Sarawakian",
+  "cuisine_type_Western"
+ ],
+ "coef": [
+  1.0263153924533248,
+  0.41642324698100575,
+  -0.029413129696668205,
+  1.4391856403404741,
+  0.267508731081267,
+  -0.04377532025721108,
+  2.35870127351886,
+  -1.1839435017466124,
+  -6.134114144500043,
+  -1.3535690820998671,
+  -1.7705945858898668,
+  0.3071860471731824,
+  0.4090219437511763,
+  -1.8432246967559238,
+  0.9734640037547229,
+  0.7556947299880211,
+  -0.9066884015595635,
+  -1.6047411776764626,
+  -1.2489321812342014,
+  -1.2541031348284282,
+  -1.4996551052356262,
+  -1.44154635773289,
+  -1.5233539267855838,
+  -1.2079437133968471,
+  -1.3393561521200463,
+  -0.48159525229233036,
+  -0.9176754960530521,
+  1.2698843283792651,
+  -0.09007050542467382,
+  -1.1970238494375292,
+  -1.5769321239679162,
+  -1.9802853216201697,
+  -0.018191351657144274,
+  0.19647396049672136,
+  -0.248543520047124,
+  -0.03492098962845529,
+  -0.513882266873957,
+  -0.7309514299398467,
+  2.033397993622598
+ ],
+ "intercept": 4.355399417470993,
+ "numeric": [
+  "typical_ingredient_cost",
+  "observed_market_price",
+  "quantity_sold",
+  "has_promotion",
+  "special_event",
+  "holiday",
+  "is_weekend"
+ ],
+ "categories": {
+  "restaurant_type": {
+   "baseline": "Casual Dining",
+   "values": [
+    "Casual Dining",
+    "Fast Food",
+    "Fine Dining",
+    "Food Court",
+    "Street Food"
+   ]
+  },
+  "meal_type": {
+   "baseline": "Breakfast",
+   "values": [
+    "Breakfast",
+    "Dinner",
+    "Lunch"
+   ]
+  },
+  "day_of_week": {
+   "baseline": "Friday",
+   "values": [
+    "Friday",
+    "Monday",
+    "Saturday",
+    "Sunday",
+    "Thursday",
+    "Tuesday",
+    "Wednesday"
+   ]
+  },
+  "category": {
+   "baseline": "Appetizer",
+   "values": [
+    "Appetizer",
+    "Bread & Rice",
+    "Breakfast",
+    "Condiments",
+    "Desserts",
+    "Dim Sum",
+    "Drinks",
+    "Main Course",
+    "Noodles",
+    "Noodles & Rice",
+    "Pasta",
+    "Rice & Noodles",
+    "Snacks",
+    "Soups"
+   ]
+  },
+  "cuisine_type": {
+   "baseline": "Chinese",
+   "values": [
+    "Chinese",
+    "Indian",
+    "Malay",
+    "Malaysian",
+    "Nyonya",
+    "Sabahan",
+    "Sarawakian",
+    "Western"
+   ]
+  }
+ },
+ "price_level": {
+  "cheap_below": 9,
+  "average_below": 14
+ },
+ "metrics": {
+  "mae": 3.06,
+  "r2": 0.726
+ },
+ "dataset": {
+  "name": "Malaysian restaurant menu price data",
+  "rows": 194166,
+  "credit": "jordanchan20 on Kaggle",
+  "url": "https://www.kaggle.com/datasets/jordanchan20/restaurant-menu-price"
+ }
+}

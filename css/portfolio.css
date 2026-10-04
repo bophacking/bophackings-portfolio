@@ -1,0 +1,13 @@
+/* Portfolio app: Internet Explorer chrome (the page itself is styled by content/portfolio/style.css) */
+.ie{display:flex;flex-direction:column;height:100%;background:var(--face);color:#000;font:12px Tahoma,"MS Sans Serif",Geneva,sans-serif}
+.ietool{display:flex;align-items:center;gap:3px;padding:3px;border-bottom:1px solid var(--lo)}
+.ie .btn{font-weight:400;height:26px;padding:0 8px;min-width:0}
+.ie .btn:disabled{color:var(--lo);text-shadow:1px 1px var(--hi)}
+.throb{margin-left:auto;width:30px;height:30px;flex:none}
+.throb svg{width:100%;height:100%;display:block}
+.throb.spin svg{animation:spin 1s steps(12) infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ieaddr{display:flex;align-items:center;gap:6px;padding:3px 6px}
+.ieaddr .addr{flex:1;min-width:0}
+.iewrap{flex:1;min-height:0;margin:0 3px;background:#fff;overflow:hidden}
+.ieframe{display:block;width:100%;height:100%;border:0;background:#fff}

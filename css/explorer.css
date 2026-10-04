@@ -1,0 +1,24 @@
+.xp{display:flex;flex-direction:column;height:100%;background:var(--face);color:#000}
+.xt{display:flex;flex-wrap:wrap;gap:3px;padding:3px;border-bottom:1px solid var(--lo)}
+.xt .btn{font-weight:400}
+.xa{display:flex;align-items:center;gap:6px;padding:3px 6px}
+.xv{flex:1;min-width:0;padding:2px 4px;background:#fff;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.xl{flex:1;min-height:0;overflow:auto;background:#fff;margin:0 3px}
+.xs{margin:3px;padding:2px 6px}
+.xi{all:unset;box-sizing:border-box;display:flex;cursor:var(--cur);color:#000;text-align:center}
+.xi span{padding:1px 3px}
+.xi.sel span,.v-details tr.sel td{background:#000080;color:#fff}
+.xi:focus-visible,.v-details tr:focus-visible{outline:1px dotted #000}
+.v-large{display:flex;flex-wrap:wrap;align-content:flex-start;gap:4px;padding:6px}
+.v-large .xi{flex-direction:column;align-items:center;gap:3px;width:90px;padding:4px 2px}
+.v-large .xi svg{width:32px;height:32px}
+.v-small,.v-list{padding:6px}
+.v-small{display:flex;flex-wrap:wrap;gap:2px 8px;align-content:flex-start}
+.v-list{column-width:170px}
+.v-small .xi,.v-list .xi{align-items:center;gap:4px;width:170px;padding:1px 2px;break-inside:avoid}
+.v-small svg,.v-list svg,.v-details svg{width:16px;height:16px;flex:none;vertical-align:middle;margin-right:4px}
+.v-details table{width:100%;border-collapse:collapse}
+.v-details th{padding:0}
+.v-details th button{all:unset;box-sizing:border-box;display:block;width:100%;padding:2px 6px;background:var(--face);border:1px solid var(--lo);cursor:var(--cur);text-align:left}
+.v-details td{padding:1px 6px;white-space:nowrap}
+.v-details td:nth-child(2){text-align:right}

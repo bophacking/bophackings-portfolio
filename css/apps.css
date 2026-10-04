@@ -1,0 +1,37 @@
+.np{display:flex;flex-direction:column;height:100%;position:relative;background:#fff}
+.np .pad{flex:1;height:auto;min-height:0}
+.mbar{display:flex;flex:none;background:var(--face);border-bottom:1px solid var(--lo)}
+.mi{position:relative}
+.mi>button{all:unset;padding:3px 8px;cursor:var(--cur);color:#000}
+.mi.open>button,.mi>button:hover{background:#000080;color:#fff}
+.dd{display:none;position:absolute;left:0;top:100%;min-width:170px;padding:2px;z-index:50}
+.mi.open .dd{display:block}
+.dd button{all:unset;display:flex;justify-content:space-between;gap:24px;width:100%;padding:3px 18px 3px 8px;box-sizing:border-box;cursor:var(--cur);color:#000}
+.dd button:hover,.dd button:focus-visible{background:#000080;color:#fff}
+.dd hr{border:0;border-top:1px solid var(--lo);border-bottom:1px solid var(--hi);margin:3px 2px}
+.cover{position:absolute;inset:0;z-index:50}
+.cover.sys{z-index:8999}
+.dlg{z-index:9000;min-height:0}
+.dlg.shake{animation:shake .3s}
+@keyframes shake{25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
+@media (prefers-reduced-motion:reduce){.dlg.shake{animation:none}}
+.dbody{display:flex;gap:12px;align-items:flex-start;padding:14px 12px 8px;background:var(--face);color:#000}
+.gl{flex:none;width:32px;height:32px;border-radius:50%;color:#fff;font:700 20px/32px Tahoma,sans-serif;text-align:center}
+.g-i,.g-q{background:#2a4fd0}.g-w{background:#e0b800;color:#000}.g-x{background:#c00}
+.dt{flex:1;min-width:0}
+.msg{white-space:pre-line;line-height:1.4;margin-top:2px}
+.dinp{width:100%;margin-top:6px;padding:2px 3px;font:12px Tahoma,sans-serif;background:#fff;color:#000;border-radius:0}
+.dbtns{display:flex;justify-content:center;gap:8px;padding:6px 8px 10px;background:var(--face)}
+.dbtns .btn{min-width:72px;justify-content:center;font-weight:400}
+
+.np .skip{display:block;padding:3px 8px;background:var(--face);border-bottom:1px solid var(--lo);color:#00e;text-decoration:underline;cursor:var(--cur-hand);font-size:12px;font-weight:700}
+.np .skip:hover{color:#c0c}
+
+.vwr{display:flex;flex-direction:column;height:100%;background:var(--face)}
+.vbox{flex:1;min-height:0;overflow:auto;background:#808080;display:flex;margin:3px;color:#fff;align-items:center;justify-content:center}
+.vbox img{display:block;max-width:none;margin:auto}
+.xt .btn[disabled]{color:#808080}
+
+.np .pad{tab-size:8}
+
+.ic svg image,.v-large svg image,.dndghost svg image{image-rendering:pixelated}

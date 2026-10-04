@@ -1,0 +1,14 @@
+/* Recycle Bin + drag and drop */
+.ic{touch-action:none}
+.ic.drop span{background:#000080;outline:1px dotted #fff;text-shadow:none}
+.ic.drop svg{opacity:.7}
+.dndghost{position:fixed;z-index:20000;pointer-events:none;opacity:.8;display:flex;flex-direction:column;align-items:center;gap:2px;width:84px;color:#fff;font:12px Tahoma,"MS Sans Serif",sans-serif;text-align:center}
+.dndghost svg{width:32px;height:32px}
+.dndghost span{padding:1px 3px;background:#000080}
+.xp.bin.drop{outline:2px dashed #000080;outline-offset:-4px}
+.bt{width:100%;border-collapse:collapse}
+.bt th{position:sticky;top:0;padding:3px 6px;text-align:left;font-weight:400;white-space:nowrap;background:var(--face);color:#000;border:1px solid;border-color:var(--hi) var(--dk) var(--dk) var(--hi)}
+.bt td{padding:1px 6px;white-space:nowrap;color:#000}
+.bt td.n{text-align:right}
+.bt td.nm svg{width:16px;height:16px;vertical-align:middle;margin-right:4px}
+.bt tr.sel td{background:#000080;color:#fff}

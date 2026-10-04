@@ -1,0 +1,2038 @@
+{
+ "exported_with": "scikit-learn 1.9.1, biopython 1.88, pandas 3.0.5, numpy 2.5.3",
+ "files": {
+  "spice-sample.csv": [
+   {
+    "pred": 7.128878359499614,
+    "level": "Cheap",
+    "profit": 2.6288783594996143
+   },
+   {
+    "pred": 15.202943918620761,
+    "level": "Expensive",
+    "profit": 8.002943918620762
+   },
+   {
+    "pred": 11.93690147101508,
+    "level": "Average",
+    "profit": 6.93690147101508
+   },
+   {
+    "pred": 11.100143733393598,
+    "level": "Average",
+    "profit": 7.300143733393598
+   },
+   {
+    "pred": 18.690607420688252,
+    "level": "Expensive",
+    "profit": 12.190607420688252
+   }
+  ],
+  "spice-train300.csv": [
+   {
+    "pred": 7.473030530248422,
+    "level": "Cheap",
+    "profit": 3.9330305302484216
+   },
+   {
+    "pred": 12.930830068304937,
+    "level": "Average",
+    "profit": 8.720830068304938
+   },
+   {
+    "pred": 16.991543684384258,
+    "level": "Expensive",
+    "profit": 12.911543684384258
+   },
+   {
+    "pred": 9.22003913655201,
+    "level": "Average",
+    "profit": 5.73003913655201
+   },
+   {
+    "pred": 21.412229484206783,
+    "level": "Expensive",
+    "profit": 14.042229484206782
+   },
+   {
+    "pred": 21.963685203618233,
+    "level": "Expensive",
+    "profit": 16.583685203618234
+   },
+   {
+    "pred": 10.094613458655974,
+    "level": "Average",
+    "profit": 7.0446134586559745
+   },
+   {
+    "pred": 9.608501790969484,
+    "level": "Average",
+    "profit": 5.7585017909694844
+   },
+   {
+    "pred": 20.422081264120543,
+    "level": "Expensive",
+    "profit": 10.812081264120543
+   },
+   {
+    "pred": 23.57567510882128,
+    "level": "Expensive",
+    "profit": 17.10567510882128
+   },
+   {
+    "pred": 19.42954047631585,
+    "level": "Expensive",
+    "profit": 12.71954047631585
+   },
+   {
+    "pred": 17.61278471498982,
+    "level": "Expensive",
+    "profit": 12.592784714989822
+   },
+   {
+    "pred": 20.984824337603463,
+    "level": "Expensive",
+    "profit": 12.224824337603463
+   },
+   {
+    "pred": 20.36544543095289,
+    "level": "Expensive",
+    "profit": 12.065445430952888
+   },
+   {
+    "pred": 10.521638721597514,
+    "level": "Average",
+    "profit": 7.771638721597514
+   },
+   {
+    "pred": 4.139028164126032,
+    "level": "Cheap",
+    "profit": 0.7890281641260315
+   },
+   {
+    "pred": 34.252096265069156,
+    "level": "Expensive",
+    "profit": 16.862096265069155
+   },
+   {
+    "pred": 15.881008646001947,
+    "level": "Expensive",
+    "profit": 11.241008646001948
+   },
+   {
+    "pred": 8.86619743166446,
+    "level": "Cheap",
+    "profit": 2.46619743166446
+   },
+   {
+    "pred": 23.30699815360616,
+    "level": "Expensive",
+    "profit": 15.096998153606158
+   },
+   {
+    "pred": 4.460224389698432,
+    "level": "Cheap",
+    "profit": 1.9302243896984321
+   },
+   {
+    "pred": 24.04439483846884,
+    "level": "Expensive",
+    "profit": 9.51439483846884
+   },
+   {
+    "pred": 3.274062870290695,
+    "level": "Cheap",
+    "profit": -0.11593712970930525
+   },
+   {
+    "pred": 13.594501906760836,
+    "level": "Average",
+    "profit": 8.104501906760836
+   },
+   {
+    "pred": 5.792242957775659,
+    "level": "Cheap",
+    "profit": 1.7122429577756586
+   },
+   {
+    "pred": 11.660385236884936,
+    "level": "Average",
+    "profit": 6.390385236884937
+   },
+   {
+    "pred": 13.25772970241854,
+    "level": "Average",
+    "profit": 6.35772970241854
+   },
+   {
+    "pred": 12.093183210839213,
+    "level": "Average",
+    "profit": 8.743183210839213
+   },
+   {
+    "pred": 25.965948926763332,
+    "level": "Expensive",
+    "profit": 18.065948926763333
+   },
+   {
+    "pred": 14.84033976039961,
+    "level": "Expensive",
+    "profit": 8.980339760399609
+   },
+   {
+    "pred": 17.26803062974897,
+    "level": "Expensive",
+    "profit": 10.748030629748971
+   },
+   {
+    "pred": 7.248166365291767,
+    "level": "Cheap",
+    "profit": 3.388166365291767
+   },
+   {
+    "pred": 9.470837315253414,
+    "level": "Average",
+    "profit": 2.9008373152534137
+   },
+   {
+    "pred": 4.698332586971126,
+    "level": "Cheap",
+    "profit": 3.018332586971126
+   },
+   {
+    "pred": 7.06932889714035,
+    "level": "Cheap",
+    "profit": 4.21932889714035
+   },
+   {
+    "pred": 17.583729111465345,
+    "level": "Expensive",
+    "profit": 11.343729111465345
+   },
+   {
+    "pred": 19.40230786151305,
+    "level": "Expensive",
+    "profit": 12.932307861513053
+   },
+   {
+    "pred": 19.128465784276383,
+    "level": "Expensive",
+    "profit": 13.178465784276383
+   },
+   {
+    "pred": 25.25624417563128,
+    "level": "Expensive",
+    "profit": 16.43624417563128
+   },
+   {
+    "pred": 5.381411700911152,
+    "level": "Cheap",
+    "profit": 3.161411700911152
+   },
+   {
+    "pred": 6.0364669447320685,
+    "level": "Cheap",
+    "profit": 3.0164669447320684
+   },
+   {
+    "pred": 9.079164684990019,
+    "level": "Average",
+    "profit": 6.309164684990019
+   },
+   {
+    "pred": 20.02632283383673,
+    "level": "Expensive",
+    "profit": 12.716322833836731
+   },
+   {
+    "pred": 2.286771572005802,
+    "level": "Cheap",
+    "profit": 0.5467715720058022
+   },
+   {
+    "pred": 28.44382761220819,
+    "level": "Expensive",
+    "profit": 18.68382761220819
+   },
+   {
+    "pred": 6.426165079040727,
+    "level": "Cheap",
+    "profit": 3.086165079040727
+   },
+   {
+    "pred": 13.040511408941287,
+    "level": "Average",
+    "profit": 5.2105114089412865
+   },
+   {
+    "pred": 20.06301884586705,
+    "level": "Expensive",
+    "profit": 15.103018845867048
+   },
+   {
+    "pred": 7.50387661544782,
+    "level": "Cheap",
+    "profit": 3.4338766154478195
+   },
+   {
+    "pred": 24.252670827001957,
+    "level": "Expensive",
+    "profit": 14.182670827001957
+   },
+   {
+    "pred": 3.7032013010121956,
+    "level": "Cheap",
+    "profit": 1.5332013010121956
+   },
+   {
+    "pred": 19.549919152073237,
+    "level": "Expensive",
+    "profit": 13.589919152073236
+   },
+   {
+    "pred": 8.093280800170305,
+    "level": "Cheap",
+    "profit": 6.2432808001703055
+   },
+   {
+    "pred": 7.720939951523765,
+    "level": "Cheap",
+    "profit": 3.590939951523765
+   },
+   {
+    "pred": 4.0490054339137025,
+    "level": "Cheap",
+    "profit": 0.6090054339137025
+   },
+   {
+    "pred": 10.151381418160254,
+    "level": "Average",
+    "profit": 6.001381418160253
+   },
+   {
+    "pred": 6.41432924296314,
+    "level": "Cheap",
+    "profit": 2.59432924296314
+   },
+   {
+    "pred": 2.1952516044578845,
+    "level": "Cheap",
+    "profit": 0.4952516044578845
+   },
+   {
+    "pred": 35.38612903737484,
+    "level": "Expensive",
+    "profit": 25.476129037374843
+   },
+   {
+    "pred": 9.169005792548674,
+    "level": "Average",
+    "profit": 2.629005792548674
+   },
+   {
+    "pred": 4.580015962835718,
+    "level": "Cheap",
+    "profit": 1.9700159628357183
+   },
+   {
+    "pred": 17.942508710192953,
+    "level": "Expensive",
+    "profit": 8.752508710192954
+   },
+   {
+    "pred": 8.867547757175071,
+    "level": "Cheap",
+    "profit": 4.087547757175071
+   },
+   {
+    "pred": 14.610673600074785,
+    "level": "Expensive",
+    "profit": 8.820673600074784
+   },
+   {
+    "pred": 5.023069000097523,
+    "level": "Cheap",
+    "profit": 3.3530690000975234
+   },
+   {
+    "pred": 10.237090408514998,
+    "level": "Average",
+    "profit": 4.077090408514998
+   },
+   {
+    "pred": 8.400318870997268,
+    "level": "Cheap",
+    "profit": 6.120318870997268
+   },
+   {
+    "pred": 12.284780208984753,
+    "level": "Average",
+    "profit": 7.114780208984753
+   },
+   {
+    "pred": 8.26017927113736,
+    "level": "Cheap",
+    "profit": 4.14017927113736
+   },
+   {
+    "pred": 8.468602058255547,
+    "level": "Cheap",
+    "profit": 4.858602058255547
+   },
+   {
+    "pred": 9.09225715699871,
+    "level": "Average",
+    "profit": 4.2422571569987095
+   },
+   {
+    "pred": 8.315062801332154,
+    "level": "Cheap",
+    "profit": 3.385062801332154
+   },
+   {
+    "pred": 32.929567388038194,
+    "level": "Expensive",
+    "profit": 20.739567388038196
+   },
+   {
+    "pred": 24.22750833386477,
+    "level": "Expensive",
+    "profit": 17.52750833386477
+   },
+   {
+    "pred": 21.996797423768406,
+    "level": "Expensive",
+    "profit": 13.066797423768406
+   },
+   {
+    "pred": 9.289433790567568,
+    "level": "Average",
+    "profit": 4.859433790567568
+   },
+   {
+    "pred": 1.5473850615150564,
+    "level": "Cheap",
+    "profit": -0.6526149384849438
+   },
+   {
+    "pred": 26.13229021765479,
+    "level": "Expensive",
+    "profit": 17.50229021765479
+   },
+   {
+    "pred": 8.241087482248489,
+    "level": "Cheap",
+    "profit": 3.091087482248488
+   },
+   {
+    "pred": 5.304964652546636,
+    "level": "Cheap",
+    "profit": 2.1549646525466364
+   },
+   {
+    "pred": 6.351197583785557,
+    "level": "Cheap",
+    "profit": 2.911197583785557
+   },
+   {
+    "pred": 28.059643471337573,
+    "level": "Expensive",
+    "profit": 21.36964347133757
+   },
+   {
+    "pred": 4.439764475152861,
+    "level": "Cheap",
+    "profit": 2.8097644751528614
+   },
+   {
+    "pred": 9.70234223208663,
+    "level": "Average",
+    "profit": 6.55234223208663
+   },
+   {
+    "pred": 18.09485273049985,
+    "level": "Expensive",
+    "profit": 12.824852730499849
+   },
+   {
+    "pred": 3.998976741671447,
+    "level": "Cheap",
+    "profit": 0.7489767416714468
+   },
+   {
+    "pred": 13.069933163899908,
+    "level": "Average",
+    "profit": 6.019933163899908
+   },
+   {
+    "pred": 7.887655185267973,
+    "level": "Cheap",
+    "profit": 2.187655185267973
+   },
+   {
+    "pred": 5.609552374382256,
+    "level": "Cheap",
+    "profit": 2.559552374382256
+   },
+   {
+    "pred": 21.1568211529244,
+    "level": "Expensive",
+    "profit": 12.226821152924401
+   },
+   {
+    "pred": 2.4571411270558974,
+    "level": "Cheap",
+    "profit": 0.8271411270558975
+   },
+   {
+    "pred": 3.3393658373712647,
+    "level": "Cheap",
+    "profit": 0.7793658373712646
+   },
+   {
+    "pred": 19.75184321106272,
+    "level": "Expensive",
+    "profit": 11.79184321106272
+   },
+   {
+    "pred": 6.574089420493995,
+    "level": "Cheap",
+    "profit": 2.844089420493995
+   },
+   {
+    "pred": 17.305243783943084,
+    "level": "Expensive",
+    "profit": 3.3052437839430837
+   },
+   {
+    "pred": 11.989491022788952,
+    "level": "Average",
+    "profit": 6.969491022788953
+   },
+   {
+    "pred": 13.345539838387039,
+    "level": "Average",
+    "profit": 7.685539838387038
+   },
+   {
+    "pred": 11.646960000676962,
+    "level": "Average",
+    "profit": 6.9769600006769625
+   },
+   {
+    "pred": 14.023558953545104,
+    "level": "Expensive",
+    "profit": 8.213558953545103
+   },
+   {
+    "pred": 16.83046737530657,
+    "level": "Expensive",
+    "profit": 10.97046737530657
+   },
+   {
+    "pred": 24.426326186143832,
+    "level": "Expensive",
+    "profit": 13.356326186143832
+   },
+   {
+    "pred": 17.364521999099644,
+    "level": "Expensive",
+    "profit": 9.284521999099644
+   },
+   {
+    "pred": 4.647607442370451,
+    "level": "Cheap",
+    "profit": 2.777607442370451
+   },
+   {
+    "pred": 9.939395616920379,
+    "level": "Average",
+    "profit": 5.699395616920379
+   },
+   {
+    "pred": 13.729752933387802,
+    "level": "Average",
+    "profit": 9.579752933387802
+   },
+   {
+    "pred": 5.962490445699474,
+    "level": "Cheap",
+    "profit": 2.3624904456994735
+   },
+   {
+    "pred": 10.243400741278037,
+    "level": "Average",
+    "profit": 6.293400741278037
+   },
+   {
+    "pred": 19.60794026617267,
+    "level": "Expensive",
+    "profit": 12.807940266172668
+   },
+   {
+    "pred": 2.5967157451795533,
+    "level": "Cheap",
+    "profit": -0.003284254820446808
+   },
+   {
+    "pred": 0.6680031854230588,
+    "level": "Cheap",
+    "profit": -1.5119968145769414
+   },
+   {
+    "pred": 0.7886922837058057,
+    "level": "Cheap",
+    "profit": -0.9913077162941943
+   },
+   {
+    "pred": 4.249352223828284,
+    "level": "Cheap",
+    "profit": 2.669352223828284
+   },
+   {
+    "pred": 10.726077037006721,
+    "level": "Average",
+    "profit": 8.10607703700672
+   },
+   {
+    "pred": 21.074724205426143,
+    "level": "Expensive",
+    "profit": 16.044724205426142
+   },
+   {
+    "pred": 8.147448450482077,
+    "level": "Cheap",
+    "profit": 3.457448450482077
+   },
+   {
+    "pred": 21.97899859025049,
+    "level": "Expensive",
+    "profit": 13.358998590250492
+   },
+   {
+    "pred": 5.749434615722702,
+    "level": "Cheap",
+    "profit": 1.3894346157227018
+   },
+   {
+    "pred": 9.863787892955461,
+    "level": "Average",
+    "profit": 5.713787892955461
+   },
+   {
+    "pred": 12.952565501769552,
+    "level": "Average",
+    "profit": 7.362565501769552
+   },
+   {
+    "pred": 10.22101042963941,
+    "level": "Average",
+    "profit": 3.85101042963941
+   },
+   {
+    "pred": 12.948958380735403,
+    "level": "Average",
+    "profit": 6.478958380735404
+   },
+   {
+    "pred": 1.8207469724678553,
+    "level": "Cheap",
+    "profit": -0.28925302753214455
+   },
+   {
+    "pred": 15.608705079936515,
+    "level": "Expensive",
+    "profit": 11.028705079936515
+   },
+   {
+    "pred": 13.249750184947413,
+    "level": "Average",
+    "profit": 7.989750184947413
+   },
+   {
+    "pred": 5.929701412113144,
+    "level": "Cheap",
+    "profit": 3.789701412113144
+   },
+   {
+    "pred": 21.427295440516396,
+    "level": "Expensive",
+    "profit": 14.587295440516396
+   },
+   {
+    "pred": 7.793555070957644,
+    "level": "Cheap",
+    "profit": 5.723555070957644
+   },
+   {
+    "pred": 13.377585954654224,
+    "level": "Average",
+    "profit": 6.827585954654224
+   },
+   {
+    "pred": 22.46148071197593,
+    "level": "Expensive",
+    "profit": 14.80148071197593
+   },
+   {
+    "pred": 9.145415808565396,
+    "level": "Average",
+    "profit": 5.235415808565396
+   },
+   {
+    "pred": 19.66822837881889,
+    "level": "Expensive",
+    "profit": 12.28822837881889
+   },
+   {
+    "pred": 12.88243698434973,
+    "level": "Average",
+    "profit": 6.922436984349731
+   },
+   {
+    "pred": 16.95948431307626,
+    "level": "Expensive",
+    "profit": 7.669484313076261
+   },
+   {
+    "pred": 13.00537213499328,
+    "level": "Average",
+    "profit": 8.14537213499328
+   },
+   {
+    "pred": 21.277126011314472,
+    "level": "Expensive",
+    "profit": 15.467126011314473
+   },
+   {
+    "pred": 13.099332420283222,
+    "level": "Average",
+    "profit": 8.719332420283223
+   },
+   {
+    "pred": 8.010352412272486,
+    "level": "Cheap",
+    "profit": 4.730352412272486
+   },
+   {
+    "pred": 30.55613933309369,
+    "level": "Expensive",
+    "profit": 19.66613933309369
+   },
+   {
+    "pred": 24.34682907124302,
+    "level": "Expensive",
+    "profit": 11.956829071243021
+   },
+   {
+    "pred": 14.61687473112318,
+    "level": "Expensive",
+    "profit": 8.86687473112318
+   },
+   {
+    "pred": 11.884095921882617,
+    "level": "Average",
+    "profit": 8.574095921882616
+   },
+   {
+    "pred": 17.626879633104174,
+    "level": "Expensive",
+    "profit": 12.716879633104174
+   },
+   {
+    "pred": 7.81964687430037,
+    "level": "Cheap",
+    "profit": 4.71964687430037
+   },
+   {
+    "pred": 8.159362664257074,
+    "level": "Cheap",
+    "profit": 4.279362664257074
+   },
+   {
+    "pred": 15.066042057200516,
+    "level": "Expensive",
+    "profit": 10.986042057200516
+   },
+   {
+    "pred": 18.41288395803786,
+    "level": "Expensive",
+    "profit": 12.73288395803786
+   },
+   {
+    "pred": 9.156830056588676,
+    "level": "Average",
+    "profit": 3.2268300565886765
+   },
+   {
+    "pred": 39.02547717451476,
+    "level": "Expensive",
+    "profit": 27.97547717451476
+   },
+   {
+    "pred": 14.303328050353509,
+    "level": "Expensive",
+    "profit": 9.113328050353509
+   },
+   {
+    "pred": 18.628406664011358,
+    "level": "Expensive",
+    "profit": 14.348406664011357
+   },
+   {
+    "pred": 27.202516948345732,
+    "level": "Expensive",
+    "profit": 16.03251694834573
+   },
+   {
+    "pred": 8.827036299317319,
+    "level": "Cheap",
+    "profit": 4.907036299317319
+   },
+   {
+    "pred": 15.624565800007028,
+    "level": "Expensive",
+    "profit": 10.374565800007028
+   },
+   {
+    "pred": 13.373955415388536,
+    "level": "Average",
+    "profit": 8.653955415388538
+   },
+   {
+    "pred": 28.07896948153151,
+    "level": "Expensive",
+    "profit": 20.76896948153151
+   },
+   {
+    "pred": 11.89042866131237,
+    "level": "Average",
+    "profit": 5.39042866131237
+   },
+   {
+    "pred": 5.6191622949877,
+    "level": "Cheap",
+    "profit": 3.6891622949877005
+   },
+   {
+    "pred": 10.17586580636111,
+    "level": "Average",
+    "profit": 5.28586580636111
+   },
+   {
+    "pred": 34.636949367101174,
+    "level": "Expensive",
+    "profit": 23.07694936710117
+   },
+   {
+    "pred": 7.163072351251309,
+    "level": "Cheap",
+    "profit": 3.4530723512513086
+   },
+   {
+    "pred": 11.202328014574544,
+    "level": "Average",
+    "profit": 9.012328014574544
+   },
+   {
+    "pred": 12.19410610548061,
+    "level": "Average",
+    "profit": 8.68410610548061
+   },
+   {
+    "pred": 34.390420751650964,
+    "level": "Expensive",
+    "profit": 22.270420751650967
+   },
+   {
+    "pred": 3.0074137018714806,
+    "level": "Cheap",
+    "profit": 0.9174137018714807
+   },
+   {
+    "pred": 7.322146518698478,
+    "level": "Cheap",
+    "profit": 4.322146518698478
+   },
+   {
+    "pred": 14.232755193472947,
+    "level": "Expensive",
+    "profit": 5.5927551934729465
+   },
+   {
+    "pred": 14.978393848711756,
+    "level": "Expensive",
+    "profit": 11.378393848711756
+   },
+   {
+    "pred": 10.49132536464202,
+    "level": "Average",
+    "profit": 6.121325364642019
+   },
+   {
+    "pred": 9.525111714593319,
+    "level": "Average",
+    "profit": 4.965111714593319
+   },
+   {
+    "pred": 13.67201957435342,
+    "level": "Average",
+    "profit": 5.12201957435342
+   },
+   {
+    "pred": 34.50317035269392,
+    "level": "Expensive",
+    "profit": 25.37317035269392
+   },
+   {
+    "pred": 22.376275779754437,
+    "level": "Expensive",
+    "profit": 14.246275779754436
+   },
+   {
+    "pred": 27.951777183995404,
+    "level": "Expensive",
+    "profit": 17.101777183995402
+   },
+   {
+    "pred": 12.305918070904658,
+    "level": "Average",
+    "profit": 9.105918070904657
+   },
+   {
+    "pred": 25.697433174349058,
+    "level": "Expensive",
+    "profit": 19.33743317434906
+   },
+   {
+    "pred": 6.241533091401445,
+    "level": "Cheap",
+    "profit": 3.081533091401445
+   },
+   {
+    "pred": 12.261372823985173,
+    "level": "Average",
+    "profit": 7.821372823985173
+   },
+   {
+    "pred": 22.096291323100125,
+    "level": "Expensive",
+    "profit": 13.116291323100125
+   },
+   {
+    "pred": 6.163727545616569,
+    "level": "Cheap",
+    "profit": 2.3937275456165694
+   },
+   {
+    "pred": 9.482005988690586,
+    "level": "Average",
+    "profit": 6.622005988690587
+   },
+   {
+    "pred": 20.446896262629522,
+    "level": "Expensive",
+    "profit": 15.566896262629523
+   },
+   {
+    "pred": 15.339716428710256,
+    "level": "Expensive",
+    "profit": 10.289716428710257
+   },
+   {
+    "pred": 13.91572470335688,
+    "level": "Average",
+    "profit": 9.82572470335688
+   },
+   {
+    "pred": 21.299763979088446,
+    "level": "Expensive",
+    "profit": 12.699763979088447
+   },
+   {
+    "pred": 2.7925065308723767,
+    "level": "Cheap",
+    "profit": -0.06749346912762322
+   },
+   {
+    "pred": 18.070335300699966,
+    "level": "Expensive",
+    "profit": 9.110335300699965
+   },
+   {
+    "pred": 10.643427457598708,
+    "level": "Average",
+    "profit": 4.123427457598709
+   },
+   {
+    "pred": 23.642362836845564,
+    "level": "Expensive",
+    "profit": 17.002362836845563
+   },
+   {
+    "pred": 12.43391075701767,
+    "level": "Average",
+    "profit": 7.20391075701767
+   },
+   {
+    "pred": 7.205472049806946,
+    "level": "Cheap",
+    "profit": 3.4154720498069464
+   },
+   {
+    "pred": 12.234270767836183,
+    "level": "Average",
+    "profit": 6.874270767836182
+   },
+   {
+    "pred": 9.940445918656863,
+    "level": "Average",
+    "profit": 5.430445918656863
+   },
+   {
+    "pred": 7.230581180439227,
+    "level": "Cheap",
+    "profit": 5.0405811804392275
+   },
+   {
+    "pred": 24.018600201224515,
+    "level": "Expensive",
+    "profit": 15.288600201224515
+   },
+   {
+    "pred": 9.946127910536074,
+    "level": "Average",
+    "profit": 5.386127910536074
+   },
+   {
+    "pred": 5.428388204100022,
+    "level": "Cheap",
+    "profit": 1.6583882041000222
+   },
+   {
+    "pred": 20.316188861122598,
+    "level": "Expensive",
+    "profit": 11.646188861122598
+   },
+   {
+    "pred": 7.343416460170541,
+    "level": "Cheap",
+    "profit": 4.023416460170541
+   },
+   {
+    "pred": 8.273092570065225,
+    "level": "Cheap",
+    "profit": 4.493092570065226
+   },
+   {
+    "pred": 14.504269966327188,
+    "level": "Expensive",
+    "profit": 8.774269966327187
+   },
+   {
+    "pred": 14.493438848931397,
+    "level": "Expensive",
+    "profit": 8.733438848931398
+   },
+   {
+    "pred": 9.03853158860899,
+    "level": "Average",
+    "profit": 6.08853158860899
+   },
+   {
+    "pred": 13.184005925054848,
+    "level": "Average",
+    "profit": 9.914005925054848
+   },
+   {
+    "pred": 12.102532058864554,
+    "level": "Average",
+    "profit": 3.452532058864554
+   },
+   {
+    "pred": 5.551734527064456,
+    "level": "Cheap",
+    "profit": 3.6917345270644555
+   },
+   {
+    "pred": 10.114442138734201,
+    "level": "Average",
+    "profit": 7.464442138734201
+   },
+   {
+    "pred": 19.810990344412446,
+    "level": "Expensive",
+    "profit": 13.600990344412445
+   },
+   {
+    "pred": 10.718676209056706,
+    "level": "Average",
+    "profit": 5.688676209056706
+   },
+   {
+    "pred": 6.876747079805938,
+    "level": "Cheap",
+    "profit": 4.676747079805938
+   },
+   {
+    "pred": 3.699937268018374,
+    "level": "Cheap",
+    "profit": 0.6699372680183742
+   },
+   {
+    "pred": 9.427781478698746,
+    "level": "Average",
+    "profit": 3.4777814786987458
+   },
+   {
+    "pred": 15.605921703132287,
+    "level": "Expensive",
+    "profit": 7.265921703132287
+   },
+   {
+    "pred": 9.526886339958448,
+    "level": "Average",
+    "profit": 4.606886339958448
+   },
+   {
+    "pred": 24.563247320901333,
+    "level": "Expensive",
+    "profit": 9.743247320901332
+   },
+   {
+    "pred": 34.90282962010764,
+    "level": "Expensive",
+    "profit": 25.43282962010764
+   },
+   {
+    "pred": 19.854881725533943,
+    "level": "Expensive",
+    "profit": 10.954881725533943
+   },
+   {
+    "pred": 20.510314370572573,
+    "level": "Expensive",
+    "profit": 11.120314370572572
+   },
+   {
+    "pred": 34.388680896034245,
+    "level": "Expensive",
+    "profit": 24.888680896034245
+   },
+   {
+    "pred": 10.376480643413725,
+    "level": "Average",
+    "profit": 6.026480643413725
+   },
+   {
+    "pred": 24.21878252960515,
+    "level": "Expensive",
+    "profit": 13.33878252960515
+   },
+   {
+    "pred": 10.687473967778374,
+    "level": "Average",
+    "profit": 4.177473967778374
+   },
+   {
+    "pred": 18.22444808052979,
+    "level": "Expensive",
+    "profit": 11.12444808052979
+   },
+   {
+    "pred": 8.778552052463699,
+    "level": "Cheap",
+    "profit": 2.258552052463699
+   },
+   {
+    "pred": 12.510630197606963,
+    "level": "Average",
+    "profit": 6.400630197606962
+   },
+   {
+    "pred": 4.893949032912066,
+    "level": "Cheap",
+    "profit": 1.9239490329120659
+   },
+   {
+    "pred": 10.176801995653278,
+    "level": "Average",
+    "profit": 6.796801995653278
+   },
+   {
+    "pred": 11.940724142010684,
+    "level": "Average",
+    "profit": 5.3607241420106835
+   },
+   {
+    "pred": 9.512882285848494,
+    "level": "Average",
+    "profit": 2.5028822858484947
+   },
+   {
+    "pred": 8.721030717146196,
+    "level": "Cheap",
+    "profit": 6.221030717146196
+   },
+   {
+    "pred": 7.671579012440005,
+    "level": "Cheap",
+    "profit": 4.051579012440005
+   },
+   {
+    "pred": 4.331482025742922,
+    "level": "Cheap",
+    "profit": 0.26148202574292156
+   },
+   {
+    "pred": 11.846527178411673,
+    "level": "Average",
+    "profit": 6.816527178411673
+   },
+   {
+    "pred": 17.434200446877647,
+    "level": "Expensive",
+    "profit": 10.304200446877648
+   },
+   {
+    "pred": 12.192573862246581,
+    "level": "Average",
+    "profit": 5.222573862246581
+   },
+   {
+    "pred": 20.241803062313686,
+    "level": "Expensive",
+    "profit": 6.221803062313686
+   },
+   {
+    "pred": 9.425685563436993,
+    "level": "Average",
+    "profit": 6.125685563436993
+   },
+   {
+    "pred": 16.890311892544844,
+    "level": "Expensive",
+    "profit": 10.310311892544844
+   },
+   {
+    "pred": 15.421236635252585,
+    "level": "Expensive",
+    "profit": 9.701236635252585
+   },
+   {
+    "pred": 13.698156823096529,
+    "level": "Average",
+    "profit": 6.698156823096529
+   },
+   {
+    "pred": 18.64596261730779,
+    "level": "Expensive",
+    "profit": 11.915962617307791
+   },
+   {
+    "pred": 12.009316663183412,
+    "level": "Average",
+    "profit": 7.969316663183412
+   },
+   {
+    "pred": 9.13926513793001,
+    "level": "Average",
+    "profit": 7.27926513793001
+   },
+   {
+    "pred": 8.947364408214089,
+    "level": "Cheap",
+    "profit": 3.6573644082140886
+   },
+   {
+    "pred": 10.727849858061859,
+    "level": "Average",
+    "profit": 6.707849858061859
+   },
+   {
+    "pred": 15.89062940259985,
+    "level": "Expensive",
+    "profit": 9.12062940259985
+   },
+   {
+    "pred": 12.92841264767023,
+    "level": "Average",
+    "profit": 6.39841264767023
+   },
+   {
+    "pred": 9.528319301191125,
+    "level": "Average",
+    "profit": 5.208319301191125
+   },
+   {
+    "pred": 9.950988637350065,
+    "level": "Average",
+    "profit": 4.830988637350065
+   },
+   {
+    "pred": 2.7167981239480827,
+    "level": "Cheap",
+    "profit": -0.02320187605191748
+   },
+   {
+    "pred": 5.690868685790173,
+    "level": "Cheap",
+    "profit": 1.610868685790173
+   },
+   {
+    "pred": 5.516290608393845,
+    "level": "Cheap",
+    "profit": 0.6862906083938451
+   },
+   {
+    "pred": 16.58966636766209,
+    "level": "Expensive",
+    "profit": 10.90966636766209
+   },
+   {
+    "pred": 18.08167060432268,
+    "level": "Expensive",
+    "profit": 9.661670604322682
+   },
+   {
+    "pred": 11.926636036367187,
+    "level": "Average",
+    "profit": 8.196636036367186
+   },
+   {
+    "pred": 12.150520992658794,
+    "level": "Average",
+    "profit": 6.740520992658794
+   },
+   {
+    "pred": 9.445614095390972,
+    "level": "Average",
+    "profit": 5.4856140953909724
+   },
+   {
+    "pred": 8.116673844533924,
+    "level": "Cheap",
+    "profit": 4.246673844533924
+   },
+   {
+    "pred": 17.09557523209483,
+    "level": "Expensive",
+    "profit": 11.035575232094832
+   },
+   {
+    "pred": 9.750292099252235,
+    "level": "Average",
+    "profit": 4.660292099252235
+   },
+   {
+    "pred": 4.3788913621851275,
+    "level": "Cheap",
+    "profit": 1.0888913621851275
+   },
+   {
+    "pred": 11.369538354810711,
+    "level": "Average",
+    "profit": 5.859538354810711
+   },
+   {
+    "pred": 6.497153060729495,
+    "level": "Cheap",
+    "profit": 3.1571530607294953
+   },
+   {
+    "pred": 7.616944465406339,
+    "level": "Cheap",
+    "profit": 4.666944465406339
+   },
+   {
+    "pred": 2.7715428839439884,
+    "level": "Cheap",
+    "profit": 0.8115428839439884
+   },
+   {
+    "pred": 5.476029279356315,
+    "level": "Cheap",
+    "profit": 1.9760292793563146
+   },
+   {
+    "pred": 3.344686432265047,
+    "level": "Cheap",
+    "profit": 1.1746864322650472
+   },
+   {
+    "pred": 8.850538835157842,
+    "level": "Cheap",
+    "profit": 3.1205388351578414
+   },
+   {
+    "pred": 11.14159010430642,
+    "level": "Average",
+    "profit": 5.26159010430642
+   },
+   {
+    "pred": 22.27059611045636,
+    "level": "Expensive",
+    "profit": 13.76059611045636
+   },
+   {
+    "pred": 27.973888280546703,
+    "level": "Expensive",
+    "profit": 20.163888280546704
+   },
+   {
+    "pred": 17.782017663957447,
+    "level": "Expensive",
+    "profit": 10.302017663957447
+   },
+   {
+    "pred": 14.378972346194367,
+    "level": "Expensive",
+    "profit": 9.488972346194366
+   },
+   {
+    "pred": 16.294291250181637,
+    "level": "Expensive",
+    "profit": 9.964291250181637
+   },
+   {
+    "pred": 7.969465052079734,
+    "level": "Cheap",
+    "profit": 3.7794650520797335
+   },
+   {
+    "pred": 18.92417963153588,
+    "level": "Expensive",
+    "profit": 11.264179631535878
+   },
+   {
+    "pred": 11.705841779959991,
+    "level": "Average",
+    "profit": 8.945841779959991
+   },
+   {
+    "pred": 11.197502101942966,
+    "level": "Average",
+    "profit": 4.477502101942966
+   },
+   {
+    "pred": 10.083055051228339,
+    "level": "Average",
+    "profit": 7.123055051228339
+   },
+   {
+    "pred": 29.19351654052985,
+    "level": "Expensive",
+    "profit": 21.11351654052985
+   },
+   {
+    "pred": 12.996050962080814,
+    "level": "Average",
+    "profit": 9.666050962080813
+   },
+   {
+    "pred": 20.0190278292162,
+    "level": "Expensive",
+    "profit": 12.7990278292162
+   },
+   {
+    "pred": 8.847779039731673,
+    "level": "Cheap",
+    "profit": 5.647779039731673
+   },
+   {
+    "pred": 10.140245642300961,
+    "level": "Average",
+    "profit": 7.2502456423009605
+   },
+   {
+    "pred": 12.373826800796309,
+    "level": "Average",
+    "profit": 7.413826800796309
+   },
+   {
+    "pred": 2.504157519571738,
+    "level": "Cheap",
+    "profit": 0.434157519571738
+   },
+   {
+    "pred": 5.108571979191872,
+    "level": "Cheap",
+    "profit": 2.028571979191872
+   },
+   {
+    "pred": 5.102484590874999,
+    "level": "Cheap",
+    "profit": 2.0324845908749993
+   },
+   {
+    "pred": 9.290361750441928,
+    "level": "Average",
+    "profit": 6.720361750441928
+   },
+   {
+    "pred": 4.708588103760269,
+    "level": "Cheap",
+    "profit": 1.8885881037602688
+   },
+   {
+    "pred": 10.098870901805142,
+    "level": "Average",
+    "profit": 7.748870901805143
+   },
+   {
+    "pred": 16.18310712555754,
+    "level": "Expensive",
+    "profit": 10.983107125557542
+   },
+   {
+    "pred": 11.51580438214782,
+    "level": "Average",
+    "profit": 7.39580438214782
+   },
+   {
+    "pred": 9.696551477392271,
+    "level": "Average",
+    "profit": 6.076551477392271
+   },
+   {
+    "pred": 7.507442773193748,
+    "level": "Cheap",
+    "profit": 5.467442773193748
+   },
+   {
+    "pred": 5.730630751673303,
+    "level": "Cheap",
+    "profit": 3.980630751673303
+   },
+   {
+    "pred": 3.2172506127479803,
+    "level": "Cheap",
+    "profit": 0.8672506127479802
+   },
+   {
+    "pred": 5.864572879305112,
+    "level": "Cheap",
+    "profit": 2.874572879305112
+   },
+   {
+    "pred": 19.079161195876004,
+    "level": "Expensive",
+    "profit": 11.619161195876003
+   },
+   {
+    "pred": 6.420836765894331,
+    "level": "Cheap",
+    "profit": 3.9708367658943304
+   },
+   {
+    "pred": -0.08617983319247724,
+    "level": "Cheap",
+    "profit": -1.6361798331924773
+   }
+  ],
+  "spice-nocost.csv": [
+   {
+    "pred": 3.839874040963652,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 8.610042266076439,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 12.804176883174694,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 5.638198416889908,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 13.848285041825783,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 16.442108392219346,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 6.964351511673334,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 5.657187530024185,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 10.55919034264409,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 16.935414519648276,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 12.54296419295404,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 12.460681444874131,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 11.99430149971234,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 11.847027673590288,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 7.699271392350868,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 0.7008715994073942,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 16.404471590305832,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 11.11890522501852,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 2.2977789199631804,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 14.880948781564362,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 1.8636464467915217,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 9.132032186122029,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": -0.20514631012607598,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 7.960030402192081,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 1.6048761565660925,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 6.251703118655916,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 6.176153494490595,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 8.655026646120572,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 17.858057326382067,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 8.826131560623125,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 10.576454270953295,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 3.286588950421934,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 2.7279451868350684,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 2.97412272764954,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 4.144330028648375,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 11.1795210625566,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 12.76204727234004,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 13.021889199179103,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 16.20414241419295,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 3.102991529664771,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 2.936994459523027,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 6.236271047894308,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 12.523957315002926,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 0.5009827891370167,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 18.42698938186374,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 2.998271668246623,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 5.004461886031754,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 14.972494499298561,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 3.3267729681627873,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 13.91767482499698,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 1.476096899388481,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 13.43307941305142,
+    "level": "Average",
+    "profit": null
+   },
+   {
+    "pred": 6.194597324131654,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 3.4822573806915336,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 0.5184804838742654,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 5.892172539478955,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 2.493804443791439,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 0.45051543728723153,
+    "level": "Cheap",
+    "profit": null
+   },
+   {
+    "pred": 25.21534349816239,
+    "level": "Expensive",
+    "profit": null
+   },
+   {
+    "pred": 2.4569031259039287,
+    "level": "Cheap",
+    "profit": null
+   }
+  ],
+  "spice-edge.csv": [
+   {
+    "pred": 10.180327958780618,
+    "level": "Average",
+    "profit": 6.640327958780618
+   },
+   {
+    "pred": 13.848505564357989,
+    "level": "Average",
+    "profit": 9.638505564357988
+   },
+   {
+    "pred": 22.85938982319074,
+    "level": "Expensive",
+    "profit": 18.77938982319074
+   },
+   {
+    "pred": 16.705629133360272,
+    "level": "Expensive",
+    "profit": 13.215629133360272
+   },
+   {
+    "pred": 21.893824736499113,
+    "level": "Expensive",
+    "profit": 14.523824736499112
+   },
+   {
+    "pred": 28.57939460041061,
+    "level": "Expensive",
+    "profit": 23.19939460041061
+   },
+   {
+    "pred": 10.10769380634689,
+    "level": "Average",
+    "profit": 7.057693806346891
+   },
+   {
+    "pred": 11.183970039583754,
+    "level": "Average",
+    "profit": 7.333970039583754
+   },
+   {
+    "pred": 22.087620018159484,
+    "level": "Expensive",
+    "profit": 12.477620018159485
+   },
+   {
+    "pred": 31.28672137728924,
+    "level": "Expensive",
+    "profit": 24.81672137728924
+   },
+   {
+    "pred": 18.72719222686157,
+    "level": "Expensive",
+    "profit": 12.017192226861567
+   },
+   {
+    "pred": 19.188252963604093,
+    "level": "Expensive",
+    "profit": 14.168252963604093
+   },
+   {
+    "pred": 21.466419589895793,
+    "level": "Expensive",
+    "profit": 12.706419589895793
+   },
+   {
+    "pred": 26.981154827745257,
+    "level": "Expensive",
+    "profit": 18.681154827745257
+   },
+   {
+    "pred": 16.995163291136528,
+    "level": "Expensive",
+    "profit": 14.245163291136528
+   },
+   {
+    "pred": 7.342906171376808,
+    "level": "Cheap",
+    "profit": 3.992906171376808
+   },
+   {
+    "pred": 36.504286103251346,
+    "level": "Expensive",
+    "profit": 19.114286103251345
+   },
+   {
+    "pred": 16.798684142055,
+    "level": "Expensive",
+    "profit": 12.158684142054998
+   },
+   {
+    "pred": 9.934443768100046,
+    "level": "Average",
+    "profit": 3.5344437681000453
+   },
+   {
+    "pred": 23.69852290047381,
+    "level": "Expensive",
+    "profit": 15.48852290047381
+   },
+   {
+    "pred": 12.171270658166392,
+    "level": "Average",
+    "profit": 9.641270658166393
+   },
+   {
+    "pred": 25.70993359250778,
+    "level": "Expensive",
+    "profit": 11.179933592507782
+   },
+   {
+    "pred": 5.437646078401865,
+    "level": "Cheap",
+    "profit": 2.0476460784018653
+   },
+   {
+    "pred": 15.33959573572836,
+    "level": "Expensive",
+    "profit": 9.849595735728359
+   },
+   {
+    "pred": 13.449711029061286,
+    "level": "Average",
+    "profit": 9.369711029061286
+   },
+   {
+    "pred": 14.22189803238165,
+    "level": "Expensive",
+    "profit": 8.951898032381651
+   },
+   {
+    "pred": 14.950709209557377,
+    "level": "Expensive",
+    "profit": 8.050709209557377
+   },
+   {
+    "pred": 13.98339802703471,
+    "level": "Average",
+    "profit": 10.63339802703471
+   },
+   {
+    "pred": 26.44754417905566,
+    "level": "Expensive",
+    "profit": 18.547544179055663
+   },
+   {
+    "pred": 16.339994865635234,
+    "level": "Expensive",
+    "profit": 10.479994865635234
+   },
+   {
+    "pred": 17.7496258820413,
+    "level": "Expensive",
+    "profit": 11.2296258820413
+   },
+   {
+    "pred": 9.41028569804929,
+    "level": "Average",
+    "profit": 5.55028569804929
+   },
+   {
+    "pred": 12.159107397196333,
+    "level": "Average",
+    "profit": 5.589107397196333
+   },
+   {
+    "pred": 7.221632240837784,
+    "level": "Cheap",
+    "profit": 5.541632240837784
+   },
+   {
+    "pred": 9.097526339016493,
+    "level": "Average",
+    "profit": 6.247526339016494
+   },
+   {
+    "pred": 17.975253858333005,
+    "level": "Expensive",
+    "profit": 11.735253858333005
+   },
+   {
+    "pred": 21.382593183133217,
+    "level": "Expensive",
+    "profit": 14.912593183133218
+   },
+   {
+    "pred": 25.744175181068755,
+    "level": "Expensive",
+    "profit": 19.794175181068756
+   },
+   {
+    "pred": 30.688010070677038,
+    "level": "Expensive",
+    "profit": 21.868010070677038
+   },
+   {
+    "pred": 6.868273319454395,
+    "level": "Cheap",
+    "profit": 4.648273319454395
+   }
+  ]
+ }
+}

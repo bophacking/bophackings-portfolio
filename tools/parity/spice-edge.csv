@@ -1,0 +1,41 @@
+date,restaurant_id,restaurant_type,menu_item_name,meal_type,key_ingredients_tags,typical_ingredient_cost,observed_market_price,actual_selling_price,quantity_sold,has_promotion,special_event,day_of_week,holiday,is_weekend,category,cuisine_type
+5/24/2024,22,Mamak,Kuih Seri Muka,Breakfast,"glutinous rice, coconut milk, pandan custard",3.54,6.48,5.508,33.0,0,1,Friday,0,0,Meat,Malay
+6/22/2024,23,Cafe,Wan Tan Mee Dry,Lunch,"noodles, wanton, char siu, vegetables",4.21,10.5,9.01,100.0,0,0,Saturday,0,1,Beverage,Chinese
+7/29/2024,9,Fast Food,Wan Tan Mee Dry,Lunch,"noodles, wanton, char siu, vegetables",4.08,38.2,7.344,14.0,1,0,Monday,0,0,Burger,Chinese
+12/16/2024,7,Casual Dining,Bambangan,Lunch,"wild mango, chili, salt, dried shrimp",3.49,22.7,6.282,12.0,1,1,Monday,0,0,Pasta,Sabahan
+4/18/2024,13,Mamak,Mutton Varuval,Dinner,"mutton, curry leaves, coconut, spices",7.37,26.99,22.12,22.0,0,0,Thursday,0,0,Meat,Indian
+7/11/2024,12,Cafe,Gulai Kawah,Dinner,"mixed vegetables, coconut milk, spices",5.38,47.01,9.684,16.0,0,0,Thursday,0,0,Beverage,Malay
+11/3/2024,15,Fast Food,Ketupat Palas,Lunch,"rice, coconut leaves, salt",3.05,7.27,7.29,100.0,0,0,Sunday,0,1,Burger,Malay
+9/25/2024,24,Casual Dining,Ikan Pekasam,Dinner,"fermented fish, tamarind, chili",3.85,10.54,9.45,23.0,0,0,Wednesday,0,0,Pasta,Malay
+10/7/2024,10,Mamak,Braised Duck,Dinner,"duck, dark soy sauce, star anise, sugar",9.61,24.14,20.519,22.0,0,0,Monday,0,0,Meat,Chinese
+1/31/2024,17,Cafe,Bak Kwa,Breakfast,"barbecued pork jerky, sugar, soy sauce",6.47,52.15,11.646,6.0,0,0,Wednesday,0,0,Beverage,Chinese
+12/12/2024,7,Fast Food,Hainanese Chicken Chop,Dinner,"chicken, tomato sauce, peas, potato",6.71,24.27,21.62,27.0,0,0,Thursday,1,0,Burger,Chinese
+12/7/2024,17,Casual Dining,Otak Otak Penang,Dinner,"fish paste, coconut milk, banana leaf, spices",5.02,21.73,18.4705,98.0,0,0,Saturday,0,1,Pasta,Nyonya
+10/24/2024,17,Mamak,Mutton Varuval,Dinner,"mutton, curry leaves, coconut, spices",8.76,20.0,21.72,35.0,1,0,Thursday,0,0,Meat,Indian
+3/15/2024,70,Cafe,Butter Chicken,Dinner,"chicken, tomato, cream, butter, spices",8.3,31.14,26.469,20.0,1,0,Friday,0,0,Beverage,Indian
+6/2/2024,1,Fast Food,Kuih Seri Muka,Breakfast,"glutinous rice, coconut milk, pandan custard",2.75,19.35,4.95,11.0,0,0,Sunday,1,1,Burger,Malay
+2/28/2024,5,Casual Dining,Dodol,Lunch,"coconut milk, palm sugar, rice flour",3.35,7.46,6.341,96.0,0,0,Wednesday,0,0,Pasta,Malay
+4/2/2024,100,Mamak,Fish Head Curry,Breakfast,"fish head, curry spices, vegetables, coconut milk",17.39,45.26,39.77,100.0,0,0,Tuesday,0,0,Meat,Chinese
+10/29/2024,2,Cafe,Kolo Mee,Breakfast,"noodles, char siu, minced pork, spring onion",4.64,23.0,19.55,34.0,1,0,Tuesday,0,0,Beverage,Sarawakian
+2/1/2024,22,Fast Food,Gulai Kawah,Dinner,"mixed vegetables, coconut milk, spices",6.4,6.45,7.095,71.0,0,0,Thursday,0,0,Burger,Malay
+9/13/2024,12,Casual Dining,Babi Pongteh,Breakfast,"pork, fermented bean paste, potato, mushroom",8.21,25.25,21.4625,31.0,1,0,Friday,0,0,Pasta,Nyonya
+8/21/2024,16,Mamak,Keropok Lekor,Breakfast,"fish paste, sago flour, salt",2.53,12.17,4.554,8.0,1,0,Wednesday,0,0,Meat,Malay
+10/2/2024,9,Cafe,Fish Head Curry Tamil,Dinner,"fish head, curry spices, coconut milk, okra",14.53,19.4,17.52,23.0,0,0,Wednesday,0,0,Beverage,Indian
+6/11/2024,21,Fast Food,Cucur Udang,Breakfast,"prawns, flour, spices, oil",3.39,5.06,4.068,65.0,0,0,Tuesday,0,0,Burger,Malay
+10/17/2024,22,Casual Dining,Lor Bak,Dinner,"five spice pork roll, bean curd, egg",5.49,18.11,15.3935,100.0,1,0,Thursday,0,0,Pasta,Chinese
+8/15/2024,1,Mamak,Dodol,Lunch,"coconut milk, palm sugar, rice flour",4.08,12.86,7.344,5.0,0,0,Thursday,0,0,Meat,Malay
+5/10/2024,16,Cafe,Steamed Pork Ribs,Lunch,"pork ribs, black bean sauce, chili",5.27,13.33,11.3305,100.0,1,0,Friday,0,0,Beverage,Chinese
+11/10/2024,14,Fast Food,Durian Cendol,Lunch,"durian, pandan jelly, coconut milk, ice",6.9,10.48,11.528,100.0,0,0,Sunday,0,1,Burger,Malaysian
+9/18/2024,29,Casual Dining,Tomato Soup,Dinner,"tomato, cream, basil, bread",3.35,13.87,11.7895,78.0,1,1,Wednesday,0,0,Pasta,Western
+2/7/2024,25,Mamak,Rendang Daging Minang,Dinner,"beef, coconut milk, chili, galangal, lemongrass",7.9,38.55,32.7675,45.0,0,0,Wednesday,0,0,Meat,Malay
+4/20/2024,12,Cafe,Masala Dosa,Breakfast,"rice crepe, potato curry, coconut chutney",5.86,12.8,10.61,100.0,0,1,Saturday,0,1,Beverage,Indian
+1/11/2024,8,Fast Food,Asam Pedas Fish,Dinner,"fish, tamarind, chili, tomato, okra, pineapple",6.52,26.97,22.9245,100.0,0,0,Thursday,0,0,Burger,Malay
+8/12/2024,14,Casual Dining,Gulai Nangka Muda,Lunch,"young jackfruit, coconut milk, anchovies",3.86,8.71,9.38,41.0,0,0,Monday,0,0,Pasta,Malay
+7/4/2024,10,Mamak,Sarawak Laksa,Lunch,"rice vermicelli, coconut milk, prawns, herbs",6.57,7.97,8.767,35.0,0,0,Thursday,0,0,Meat,Sarawakian
+7/15/2024,14,Cafe,Teh O Limau,Lunch,"tea, lime, sugar, ice",1.68,4.74,4.029,20.0,1,0,Monday,0,0,Beverage,Malaysian
+10/12/2024,17,Fast Food,Bambangan,Lunch,"wild mango, chili, salt, dried shrimp",2.85,6.52,5.542,100.0,0,0,Saturday,0,1,Burger,Sabahan
+9/11/2024,18,Casual Dining,Gulai Kawah,Dinner,"mixed vegetables, coconut milk, spices",6.24,20.61,17.5185,67.0,1,0,Wednesday,0,0,Pasta,Malay
+1/19/2024,16,Mamak,Mushroom Soup Western,Lunch,"mushroom, cream, herbs, bread roll",6.47,20.42,22.462,19.0,0,0,Friday,0,0,Meat,Western
+7/14/2024,99,Cafe,Butter Chicken,Dinner,"chicken, tomato, cream, butter, spices",5.95,25.84,21.964,20.0,1,1,Sunday,0,1,Beverage,Indian
+5/31/2024,18,Fast Food,Umai,Lunch,"raw fish, onion, chili, lime juice",8.82,45.82,15.876,10.0,0,0,Friday,0,0,Burger,Sarawakian
+11/25/2024,3,Casual Dining,Murukku,Dinner,"rice flour, lentil flour, spices, oil",2.22,7.13,5.92,86.0,1,0,Monday,0,0,Pasta,Indian
