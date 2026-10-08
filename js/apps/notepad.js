@@ -27,7 +27,7 @@ function notepadBody(ctx, text, fileName) {
     File: [['New', () => { ta.value = ''; name = null; retitle(); ta.focus(); }], ['Save', save, 'Ctrl+S'], ['Save As...', saveAs], '-', ['Exit', () => ctx.close()]],
     Edit: [['Select All', () => { ta.focus(); ta.select(); }], ['Copy', () => { ta.focus(); document.execCommand('copy'); }], '-', ['Time/Date', stamp, 'F5']],
     Search: [['Find...', find], ['Find Next', findNext, 'F3']],
-    Help: [['About Notepad', () => dlg({ title: 'About Notepad', icon: 'i', text: 'Notepad (Portfolio 95 edition)\nA tiny tribute, made for the web.' })]]
+    Help: [['About Notepad', () => dlg({ title: 'About Notepad', icon: 'i', text: 'Notepad (bophacking edition)\nA tiny tribute, made for the web.' })]]
   };
   const bar = menuBar(MENUS);
   ta.addEventListener('keydown', e => {
